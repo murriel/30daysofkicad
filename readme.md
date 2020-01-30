@@ -12,10 +12,9 @@ While I am not a complete beginner and have tinkered with KiCad casually, I find
 
 **OK…**
 
-```
-Electronic design automation (EDA), also referred to as electronic computer-aided design (ECAD),[1] is a category of software tools for designing electronic systems such as integrated circuits and printed circuit boards (PCBs).
-```
-https://en.wikipedia.org/wiki/Electronic_design_automation
+
+>Electronic design automation (EDA), also referred to as electronic computer-aided design (ECAD),[1] is a category of software tools for designing electronic systems such as integrated circuits and printed circuit boards (PCBs).
+>https://en.wikipedia.org/wiki/Electronic_design_automation
 
 So in short, KiCad is a tool for creating custom circuit boards and PCB Art, including electronic badges. `#badgelife`. 
 
