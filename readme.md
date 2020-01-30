@@ -1,9 +1,9 @@
 A February Project (starting January 31) 
 
 **What’s the big idea?**  
-For 30 days, do something in KiCAD. What that something looks like is all up to you.
+For 30 days, do something in [KiCAD](https://kicad-pcb.org). What that something looks like is all up to you.
 
-The 30 days project was inspired by [Sophy Wong’s](https://twitter.com/sophywong) 31 Days of Fusion 360 [https://www.youtube.com/watch?v=Z9jChZtsVhA] and Malcom Gladwell’s 10,000 hour proposition [https://www.newyorker.com/sports/sporting-scene/complexity-and-the-ten-thousand-hour-rule]
+The 30 days project was inspired by [Sophy Wong’s](https://twitter.com/sophywong) 31 Days of Fusion 360 <https://www.youtube.com/watch?v=Z9jChZtsVhA> and Malcom Gladwell’s 10,000 hour proposition <https://www.newyorker.com/sports/sporting-scene/complexity-and-the-ten-thousand-hour-rule>
 
 While I am not a complete beginner and have tinkered with KiCad casually, I find myself having to relearn quite a bit when I come back since many months usually pass between projects. Generally I am hoping to improve my fluency and muscle memory in the software, and to expand my experience by working through a small project without any deadline pressure.
 
