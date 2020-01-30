@@ -110,6 +110,13 @@ https://www.youtube.com/watch?v=WSrw1zLJRb0&index=7&list=PLy2022BX6Eso532xqrUxDT
 Sparkfun Gerbers Tutorial  
 https://learn.sparkfun.com/tutorials/beginners-guide-to-kicad/exporting-gerbers
 
+**Fabrication**  
+Get your boards printed!  
+Osh Park  
+https://oshpark.com  
+JLC PCB   
+https://jlcpcb.com/
+
 ---
 If you want to share your progress or follow along:  
 Syndicate Hashtag #30daysofkicad
